@@ -1,0 +1,22 @@
+{
+  "name": "quisit",
+  "title": "Micro reactive, two-way binding and hooks JavaScript vanilla library.",
+  "description": "Lemonade is a lightweight, micro reactive vanilla javascript library to create quick and reusable JS components without dependencies.",
+  "author": "ElzaLeuschke",
+  "keywords": [
+    "eum",
+    "two-way binding",
+    "optio",
+    "a",
+    "library"
+  ],
+  "main": "dist/lemonade.js",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaileeJerde/quisit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KaileeJerde/quisit.git/issues"
+  }
+}
